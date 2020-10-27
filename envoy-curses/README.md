@@ -34,9 +34,9 @@ memory is not free, and in this program, not carefully monitored).
 
 * This isn't an escape room. Quit with ctrl-c.
 * The app is organized into three views.
-** The Server view shows stats about the Envoy process itself
-** The Cluster view shows information about configured clusters.
-** The Stats view provides an interface for arbitrary stats
+  * The Server view shows stats about the Envoy process itself
+  * The Cluster view shows information about configured clusters.
+  * The Stats view provides an interface for arbitrary stats
 * Navigate between views with left and right arrow keys
 
 ## Server
